@@ -12,17 +12,24 @@
 
 
 **Master Data Management Basics and Strategy**
-1. "Master Data Management: The Backbone of your Data that Powers Your Business"
-2. "Decoding the Structure: An In-depth Look at Master Data Management Integration Patterns"
-3. "The Master Plan: Defining Clear Objectives for Master Data Management"
-4. "Aiming for the Bullseye: Setting Precise Goals in Master Data Management Governance"
-5. "The Blueprint of Success: Crafting an Effective Master Data Management Strategy"
+1. Master Data Management: The Backbone of your Data that Powers Your Business
+2. Crafting Your Masterpiece: Creating an Effective Master Data Management Strategy
+3. Decoding the Structure: An In-depth Look at Master Data Management Integration Patterns
+4. The Master Plan: Defining Clear Objectives for Master Data Management
+5. Eliciting Requirements for Master Data Management: Choosing the Right Integration Pattern
+6. Setting the Bar: Defining Data Quality Goals for Master Data Management
+7. Steering the Ship: Defining Data Governance Goals for Master Data Management
+
+
 
 **Master Data Management Challenges and Solutions**
-6. "Master Data Management: Unraveling the Common Challenges"
-7. "Navigating the Storm: Practical Solutions to Master Data Management Challenges"
-8. "Tackling the Goliath: A Comprehensive Guide to Master Data Management Challenges"
-9. "Master Data Management Challenges: More than Meets the Eye"
+8. Navigating the Storm: Addressing Common Challenges in MDM Deployment
+9. 
+10. 
+11. 
+12. 
+13. 
+
 
 **Master Data Management vs Other Data Management Approaches**
 10. "Master Data Management vs ETL: A Comparative Analysis"
