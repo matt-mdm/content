@@ -27,8 +27,9 @@
 9. Charting the Course: Addressing the Challenge of Lack of Clear Business Objectives in MDM Deployment
 10. Navigating the Data Maze: Addressing the Challenge of Poor Data Quality in MDM Deployment
 11. "Embracing the New: Addressing the Challenge of Resistance to Change in MDM Deployment"
-12. Complexity of Integration
-13. Choosing the Right Technology
+12. Untangling the Web: Addressing the Challenge of High Complexity of Integration in MDM Deployment
+13. Building or Buying: Addressing the Challenge of Choosing the Right MDM Technology
+14. "Making the Right Choice: Addressing the Challenge of Choosing the Right MDM Vendor"
 
 
 **Master Data Management vs Other Data Management Approaches**
