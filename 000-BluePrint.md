@@ -24,11 +24,11 @@
 
 **Master Data Management Challenges and Solutions**
 8. Navigating the Storm: Addressing Common Challenges in MDM Deployment
-9. 
-10. 
-11. 
-12. 
-13. 
+9. Charting the Course: Addressing the Challenge of Lack of Clear Business Objectives in MDM Deployment
+10. Navigating the Data Maze: Addressing the Challenge of Poor Data Quality in MDM Deployment
+11. Resistance to Change
+12. Complexity of Integration
+13. Choosing the Right Technology
 
 
 **Master Data Management vs Other Data Management Approaches**
